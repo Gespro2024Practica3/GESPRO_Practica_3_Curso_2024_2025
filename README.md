@@ -88,3 +88,12 @@ Todos los commits hechos en esta práctica se pueden ver en esta imagen:
 
 # GIT HUB
 
+1. La información del proyecto de Github obtenida desde la opción de menú "Insights→Pulse"
+![Imagen de WhatsApp 2024-12-09 a las 18 16 17_8e39296c](https://github.com/user-attachments/assets/5e39d1b2-5dc1-4863-912d-1966b5f747e9)
+
+2. La información del proyecto de Github obtenida desde la opción menú "Insights→ Code frequency"
+![Imagen de WhatsApp 2024-12-09 a las 18 15 11_9a6c1fc0](https://github.com/user-attachments/assets/e27f6c0c-8c4c-477a-8a39-65696a99bfcf)
+   
+3. Captura con la relación de las PRQs realizadas cerradas
+![Imagen de WhatsApp 2024-12-09 a las 18 17 51_fc6da967](https://github.com/user-attachments/assets/6839af96-ec3f-4c29-8e5d-02221147f712)
+
