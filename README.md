@@ -72,6 +72,12 @@ Todos los commits hechos en esta práctica se pueden ver en esta imagen:
 
 # GIT KRAKEN
 
+1. Grafico obtenido con una captura de pantalla con la lista de commits del repositorio
+2. Captura de pantalla del primer commit
+image.png
+3. Captura de pantalla del último commit
+image.png
+
 
 # GIT HUB
 
