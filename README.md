@@ -73,10 +73,17 @@ Todos los commits hechos en esta práctica se pueden ver en esta imagen:
 # GIT KRAKEN
 
 1. Grafico obtenido con una captura de pantalla con la lista de commits del repositorio
-2. Captura de pantalla del primer commit
-image.png
-3. Captura de pantalla del último commit
-image.png
+
+<img width="882" alt="Captura de pantalla 2024-12-09 a las 18 11 53" src="https://github.com/user-attachments/assets/896aec31-6de6-4fb0-9b4f-58f91cf336bc">
+
+2. Captura de pantalla del primer commit: El primer commit fue el de add cover 173
+
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/f27e15c7-1e69-4f19-a54a-984c0c379e29">
+
+3. Captura de pantalla del último commit: El ultimo commit es el Convert annex A to Latex
+
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/07c4b956-dea8-418d-9c84-4245d2559816">
+
 
 
 # GIT HUB
